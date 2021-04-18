@@ -1,2 +1,2 @@
 # MiCard-Flutter
-A Single Screen
+A Single Screen Personal Business Card App.
